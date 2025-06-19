@@ -1,3 +1,3 @@
 # Golang Web API practice
 
-Learning source: https://qiita.com/y_murotani/items/1c1a93fba22035b45d6a
+Learning source: https://zenn.dev/o_ga/books/dc6c7b055b65a3/viewer/chapter2
